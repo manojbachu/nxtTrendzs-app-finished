@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.cart-summary {
+  color: #616e7c;
+  font-family: 'Roboto';
+  width: 150px;
+}
+
+.total-price {
+  color: #171f46;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.number-of-items {
+  font-size: 4px;
+}
+
+.continue-button {
+  background-color: #0b69ff;
+  color: #ffffff;
+  border: none;
+  cursor: pointer;
+  padding: 6px 20px 6px 20px;
+  width: 100%;
+  font-weight: bold;
+  font-size: 14px;
+  border-radius: 5px;
+}
+
+.order-total {
+  font-weight: 500;
+  line-height: 0px;
+}
